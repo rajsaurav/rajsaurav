@@ -3,6 +3,8 @@
 # 💫 About Me:
 Hi, My name is Saurav <br>
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 I’m a Data/Product Analyst with 2.3+ years in data analysis, program manageent, instructional design and client management<br> 
 Passionate about data and analysing patterns <br>
 Here, you'll find projects that highlight my expertise in data analysis, business intelligence, and visualization <br> 
