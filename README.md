@@ -28,7 +28,7 @@
   - [Supply Chain Analysis in FMCG Industry](https://github.com/rajsaurav/Supply-Chain-Issue-Analysis)
   - [Product and Sales Analysis in Retail Industry](https://github.com/rajsaurav/Global-Cycling-Sales-and-Product-Analysis)
 - <b>Data Analysis Project using Python</b>
-  - [Image Analysis Middleware](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis) 
+  - [US Accidents Analysis (2016-2023)](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis) 
 - <b>Data Engineering Project using Azure</b>
   - [Olympics data analysis](https://github.com/rajsaurav/Olympic-data-analysis-using-azure)
   
