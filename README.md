@@ -13,12 +13,11 @@
 
 🌱Currently a Data/Product Analyst with 2.3+ years <br>
   <br>
-  Passionate about data and analysing patterns <br>
+⚡Passionate about data and analysing patterns <br>
   <br>
-  
 💬Ask me anything on data analysis and data science <br>
   <br>
-  Currently diving deep into data science and AI/ML
+👨‍💻Currently diving deep into data science and AI/ML
   <br>
 
 
