@@ -5,6 +5,11 @@
 <img align="right" alt="Coding"  width="200" src="https://camo.githubusercontent.com/2286df5e9793ee9fa177fe213a81976542337aa176594fb75b0058d2290e42b5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f6d656469612f31383138316562333965656339373834646232353665323436393534616462612e676966"> 
 
 
+
+
+
+
+
 🌱Currently a Data/Product Analyst with 2.3+ years <br>
   Passionate about data and analysing patterns <br>
 💬Ask me anything on data analysis and data science <BR>
