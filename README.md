@@ -1,12 +1,11 @@
 # 💫 About Me:
 Hi, My name is Saurav <br><br>
 
-I’m a Data/Product Analyst with 2.3+ years in tech contentand client management<br> 
-Passionate about <br>into data-driven product analysis roles. <br>
-Here, you'll find projects that highlight my expertise in data analysis, business intelligence, and visualization <br> 
-Insightful analyses across different domains.<br><br>
+I’m a Data/Product Analyst with 2.3+ years in data analysis, program manageent, instructional design and client management<br> 
+Passionate about data and analysing patterns <br>
+Here, you'll find projects that highlight my expertise in data analysis, business intelligence, and visualization 
 I combine technical skill with a user-focused perspective to uncover insights and drive data-backed solutions. <br>
-Currently diving deep into data sciece and ML
+Currently diving deep into data science and ML
 
 
 ## 🌐 Socials:
