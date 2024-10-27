@@ -5,11 +5,10 @@ Hi, My name is Saurav <br>
 
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")(https://github.com/rajsaurav)
 
-I’m a Data/Product Analyst with 2.3+ years in data analysis, program manageent, instructional design and client management<br> 
+Currently a Data/Product Analyst with 2.3+ years <br>
 Passionate about data and analysing patterns <br>
-Here, you'll find projects that highlight my expertise in data analysis, business intelligence, and visualization <br> 
-I combine my technical skills with a user-focused perspective to uncover insights and drive data-backed solutions. <br>
-Currently diving deep into data science and ML
+Ask me anything on data analysis and data science <BR>
+Currently diving deep into data science and AI/ML
 
 
 ## 🌐 Socials:
