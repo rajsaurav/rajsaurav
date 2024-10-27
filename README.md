@@ -2,7 +2,7 @@
 
 <h1 align="Center"> Hi👋,I'm Saurav Raj</h1>
 <h3 align="center">Passionate data analyst and data science enthusiast</h3>
-<img align="right" alt="Coding"  width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation"> 
+<img align="right" alt="Coding"  width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media"> 
 
 
 Currently a Data/Product Analyst with 2.3+ years <br>
