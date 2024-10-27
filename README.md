@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hi, My name is Saurav <br>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")(https://github.com/rajsaurav)
+(img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/116207...")(https://github.com/rajsaurav)
 
 Currently a Data/Product Analyst with 2.3+ years <br>
 Passionate about data and analysing patterns <br>
