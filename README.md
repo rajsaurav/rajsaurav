@@ -20,7 +20,7 @@
 👨‍💻Currently diving deep into AI/ML
   <br>
   <br>
-📫Open to work.Reach out to me on rajsaurav987@gmail.com
+📫Open to work. Reach out to me on rajsaurav987@gmail.com
   <br>
   <br>
   <br>
