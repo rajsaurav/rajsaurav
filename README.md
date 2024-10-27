@@ -22,6 +22,19 @@
   <br>
   <br>
 
+<h2>👨‍💻 Data Projects:</h2>
+
+- <b>Data Analysis Project using SQL, Excel and Power BI </b>
+  - [Supply Chain Analysis in FMCG Industry](https://github.com/rajsaurav/Supply-Chain-Issue-Analysis)
+  - [Product and Sales Analysis in Retail Industry](https://github.com/rajsaurav/Global-Cycling-Sales-and-Product-Analysis)
+- <b>Data Analysis Project using Python</b>
+  - [Image Analysis Middleware](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis) 
+- <b>Data Engineering Project using Azure</b>
+  - [Olympics data analysis](https://github.com/rajsaurav/Olympic-data-analysis-using-azure)
+  
+- <b>Generative AI based Project using LLama-2</b>
+  - [Cover Letter Generator](https://github.com/rajsaurav/WriteUp-Generator-LLM-Using-Llama-2)
+  
 
 
 ## 🌐 Contact me:
