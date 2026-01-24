@@ -11,7 +11,7 @@
 <br>
 
 
-🌱Currently a Data/Content Analyst with 3.3 years of experience <br>
+🌱Currently a Data/Content Analyst with 3.5 years of experience <br>
   <br>
 ⚡Passionate about Product, Data and Business analysis <br>
   <br>
