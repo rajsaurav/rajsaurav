@@ -19,7 +19,7 @@
 👨‍💻Currently building projects around Data and Product domain
   <br>
   <br>
-📫Open to work. Reach out to me on rajsaurav987@gmail.com
+📫Reach out to me on rajsaurav1099@gmail.com
   <br>
   <br>
   <br>
